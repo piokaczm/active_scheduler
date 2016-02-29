@@ -4,4 +4,3 @@ no_queue_job:
   args:
     -
   description: "It's a simple job."
-  active_job: true

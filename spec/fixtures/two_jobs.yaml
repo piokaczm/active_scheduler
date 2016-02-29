@@ -9,4 +9,3 @@ job_2:
   queue: "simple"
   class: "JobTwo"
   description: "It's a simple job 2"
-  active_job: true
